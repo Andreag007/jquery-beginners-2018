@@ -52,8 +52,8 @@ body {
   padding-top: 3rem;
 }
 
-@@media screen and (max-width: 100%){
+@media screen and (max-width: 100%){
     .content {
       padding-left: 2rem;
-      padding-right: 2rem;  
+      padding-right: 2rem;
 }
